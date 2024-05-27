@@ -16,7 +16,7 @@ Con toda esta información, deberás crear diferentes Endpoint que permitan cons
 [hecho] El archivo JSON debes guardarlo en una subcarpeta del proyecto llamada /database/  
 [hecho]El número de puerto del servidor web debe ser 3008  
 [hecho]Carga en una constante llamada TRAILERFLIX el contenido del archivo JSON en formato Array de objetos (usando fileSystem API + JSON.parse para obtener y transformar los datos)  
-[revisar]Crea un contenido en formato texto de bienvenida para la ruta raíz del proyecto “/”. El mensaje a mostrar puede ser texto plano, o contenido HTML. (Mejor si es este último)  
+[hecho]Crea un contenido en formato texto de bienvenida para la ruta raíz del proyecto “/”. El mensaje a mostrar puede ser texto plano, o contenido HTML. (Mejor si es este último)  
 
 👩🏻‍⚕️ Con la estructura base del proyecto ya desarrollada, deberás crear los endpoints necesarios para listar el catálogo de películas y series por diferentes posibles búsquedas.  
 
